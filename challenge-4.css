@@ -46,7 +46,30 @@ a {
     font-weight: bold;
     margin-bottom: 0;
 }
+body {
+    padding: auto;
+}
 
+svg {
+    width: 5em;
+}
+
+h1 {
+    font-size: auto;
+    font-weight: auto;
+}
+
+.card p {
+    font-size: auto;
+    line-height: auto;
+    color: auto;
+}
+
+a {
+    background: auto;
+    padding: auto;
+    margin-top: auto;
+}
 /*
 
     Your fixes below:

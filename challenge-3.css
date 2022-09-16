@@ -89,7 +89,30 @@ input[type=submit] {
     color: black;
 }
 
+body {
+    background: auto;
+}
 
+.container {
+    border-left: auto;
+}
+
+p {
+    color: auto;
+}
+
+input[type=text], textarea {
+    background: auto;
+    border-bottom: auto;
+}
+
+input[type=text]:focus, textarea:focus {
+    border-bottom: auto;
+}
+
+input[type=submit] {
+    background: auto;
+}
 /*
     Your fixes below!
     
